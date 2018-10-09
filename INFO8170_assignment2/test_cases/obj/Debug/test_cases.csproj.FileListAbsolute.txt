@@ -1,0 +1,12 @@
+c:\users\aanchu\source\repos\INFO8170_assignment2\test_cases\bin\Debug\test_cases.dll
+c:\users\aanchu\source\repos\INFO8170_assignment2\test_cases\bin\Debug\test_cases.pdb
+c:\users\aanchu\source\repos\INFO8170_assignment2\test_cases\bin\Debug\INFO8170_assignment2.exe
+c:\users\aanchu\source\repos\INFO8170_assignment2\test_cases\bin\Debug\nunit.framework.dll
+c:\users\aanchu\source\repos\INFO8170_assignment2\test_cases\bin\Debug\INFO8170_assignment2.pdb
+c:\users\aanchu\source\repos\INFO8170_assignment2\test_cases\bin\Debug\INFO8170_assignment2.exe.config
+c:\users\aanchu\source\repos\INFO8170_assignment2\test_cases\bin\Debug\nunit.framework.xml
+c:\users\aanchu\source\repos\INFO8170_assignment2\test_cases\obj\Debug\test_cases.csprojAssemblyReference.cache
+c:\users\aanchu\source\repos\INFO8170_assignment2\test_cases\obj\Debug\test_cases.csproj.CoreCompileInputs.cache
+c:\users\aanchu\source\repos\INFO8170_assignment2\test_cases\obj\Debug\test_cases.csproj.CopyComplete
+c:\users\aanchu\source\repos\INFO8170_assignment2\test_cases\obj\Debug\test_cases.dll
+c:\users\aanchu\source\repos\INFO8170_assignment2\test_cases\obj\Debug\test_cases.pdb
