@@ -19,7 +19,7 @@ namespace INFO8170_assignment2
             bool validMenuSelection = false;
             while (validMenuSelection == false)
             {
-                Console.WriteLine("1 Enter triangle dimensions");
+                Console.WriteLine("1 Enter the triangle dimensions");
                 Console.WriteLine("2 Exit");
 
                 value = Console.ReadLine();
