@@ -27,7 +27,7 @@ namespace INFO8170_assignment2
                 switch (value)
                 {
                     case "1":
-                        Console.WriteLine("Please enter 3 desired value to check the type of the triangle");
+                        Console.WriteLine("Please enter your  3 desired value to check the type of the triangle");
                         a= Console.ReadLine();
 
                         bool isNum = int.TryParse(a, out a1);
